@@ -1,0 +1,17 @@
+{
+  "name": "FoodOps — Food Safety Records",
+  "short_name": "FoodOps",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f5",
+  "theme_color": "#0b7a3e",
+  "description": "5-second food safety records for NZ cafés. Audit-ready in one tap.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
